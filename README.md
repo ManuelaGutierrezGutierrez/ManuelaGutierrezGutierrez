@@ -4,7 +4,7 @@
 <h4>¡Revisa mi contenido!</h4>
 
 <h3 align="left">Conecta conmigo:</h3>
-<palign="left">manuelagutierrezgutierrez@gmail.com</p>
+- 📫 How to reach me **manuelagutierrezgutierrez@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/manuelagutierrezgutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelagutierrezgutierrez" height="30" width="40" /></a>
 </p>
