@@ -1,9 +1,10 @@
 <h1 align="center">¡Hola 👋! soy Manuela</h1>
 <h3 align="center">Junior Front-end Developer</h3>
-<h4>Acabo de terminar un bootcamp y busco mi primera oportunidad laboral en el sector. Es un gran reto, pero la constancia y el trabajo son el camino al éxito</h4>
-<h4>¡Revisa mi contenido!</h4>
+<h4 align="center">Acabo de terminar un bootcamp y busco mi primera oportunidad laboral en el sector</h4> 
+<h4 align="center">Es un gran reto, pero la constancia y el trabajo son el camino al éxito</h4>
+<h4 align="center">¡Revisa mi contenido!</h4>
 
-<h3 align="left">Conecta conmigo:</h3> <p>manuelagutierrezgutierrez@gmail.com</p>
+<h3 align="left">Conecta conmigo: <p>manuelagutierrezgutierrez@gmail.com</p></h3> 
 
 <p align="left">
 <a href="https://linkedin.com/in/manuelagutierrezgutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelagutierrezgutierrez" height="30" width="40" /></a>
