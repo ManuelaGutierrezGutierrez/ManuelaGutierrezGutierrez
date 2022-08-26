@@ -4,7 +4,7 @@
 <h4 align="center">Es un gran reto, pero la constancia y el trabajo son el camino al éxito</h4>
 <h4 align="center">¡Revisa mi contenido!</h4>
 
-<h3 align="left">Conecta conmigo: <p>manuelagutierrezgutierrez@gmail.com</p></h3> 
+<h3 align="left">Conecta conmigo: </h3> 
 
 <p align="left">
 <a href="https://linkedin.com/in/manuelagutierrezgutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelagutierrezgutierrez" height="30" width="40" /></a>
