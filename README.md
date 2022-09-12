@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi 👋! I'm Manuela</h1>
+<h1 align="center">Hi 👋! I'm Manuela</h1>
 <h3 align="center">Junior Front-end Developer</h3>
 <h4 align="center">I just finished a web development bootcamp and I'm looking for my first job opportunity in the sector</h4> 
 <h4 align="center">It is a great challenge, but perseverance and work are the path to success</h4>
